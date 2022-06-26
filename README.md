@@ -174,7 +174,7 @@ This adds a two column side-by-side environment (will turn into 1 col for narrow
 This is column 1.
 {{< column >}}
 This is column 2.
-{{< endcolumn >}}
+{{< endcolumns >}}
 ```
 
 ## About
