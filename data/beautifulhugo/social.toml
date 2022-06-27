@@ -166,3 +166,9 @@ id = "discord"
 url = "https://discord.gg/%s"
 title = "Discord"
 icon = "fab fa-discord"
+
+[[social_icons]]
+id = "strava"
+url = "https://www.strava.com/athletes/%s"
+title = "Strava"
+icon = "fab fa-strava"
