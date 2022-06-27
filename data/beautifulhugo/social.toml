@@ -153,9 +153,16 @@ id = "mastodon"
 url = "https://%s"
 title = "Mastodon"
 icon = "fab fa-mastodon"
+rel = "me"
 
 [[social_icons]]
 id = "weibo"
 url = "https://weibo.com/%s"
 title = "Weibo"
 icon = "fab fa-weibo"
+
+[[social_icons]]
+id = "discord"
+url = "https://discord.gg/%s"
+title = "Discord"
+icon = "fab fa-discord"
