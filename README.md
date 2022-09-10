@@ -2,6 +2,10 @@
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
 
+## Live demo
+
+See https://hugo-theme-beautifulhugo.netlify.app/
+
 ## Installation
 
     $ mkdir themes
