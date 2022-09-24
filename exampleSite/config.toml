@@ -1,6 +1,5 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
