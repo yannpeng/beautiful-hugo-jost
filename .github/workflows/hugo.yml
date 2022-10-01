@@ -50,7 +50,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s "../beautifulhugo/exampleSite/" \
             --themesDir "../beautifulhugo/" \
-            -c "../beautifulhugo/beautifulhugo/exampleSite/content/"
+            -c "../beautifulhugo/exampleSite/content/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
