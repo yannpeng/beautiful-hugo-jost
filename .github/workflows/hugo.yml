@@ -48,7 +48,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            -s ../beautifulhugo/beautifulhugo/exampleSite/ \
+            -s ../beautifulhugo/exampleSite/ \
             -t ../beautifulhugo/ \
             -c ../beautifulhugo/beautifulhugo/exampleSite/content/
       - name: Upload artifact
