@@ -173,9 +173,13 @@ figure:not(.dark) img, img.white {
   letter-spacing: 1px;
 }
 
-.navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 500;
+  color: #404040;
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: 700;
   color: #404040;
 }
 
