@@ -190,7 +190,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #c7254e;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -443,7 +443,7 @@ footer .theme-by {
 .post-heading .post-meta,
 .page-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -507,7 +507,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #c7254e;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -518,7 +518,7 @@ footer .theme-by {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #c7254e;
   background-color: #CCC;
 }
 
