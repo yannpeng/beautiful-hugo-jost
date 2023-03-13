@@ -120,7 +120,7 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #c7254e;
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -720,8 +720,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #c7254e;
+  border: 1px solid #c7254e;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -854,8 +854,8 @@ div.splitbox div.right {
 .disqus-comments button:hover,
 .disqus-comments button:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #c7254e;
+  border: 1px solid #c7254e;
 }
 
 /* Related posts */
