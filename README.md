@@ -204,8 +204,10 @@ This is column 2.
 
 ## About
 
+This is based on the [Beautiful Hugo Theme](https://github.com/halogenica/beautifulhugo).
+
 This is an adaptation of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) by [Dean Attali](https://deanattali.com/aboutme#contact). It supports most of the features of the original theme, and many new features. It has diverged from the Jekyll theme over time, with years of community updates.
 
 ## License
 
-MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
+MIT Licensed, see [LICENSE](https://github.com/yannpeng/beautiful-hugo-josh/blob/master/LICENSE).
